@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375034205348",
+    "project_id": "snaptrack-c24f3",
+    "storage_bucket": "snaptrack-c24f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375034205348:android:fbfdbb71f8e8d460ddc231",
+        "android_client_info": {
+          "package_name": "com.example.st"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArltqYXt0RVv_53YAyEcy1Q3JBv3LPvec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
